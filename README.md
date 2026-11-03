@@ -12,6 +12,10 @@ For years my work lived in folders: uni projects, half-finished notebooks, and i
 
 Each project will start with a real question and end with something a decision-maker could act on.
 
+## Projects
+
+- **[Powering a 50 MW Data Centre in NSW](https://github.com/KonnurSarthak/nsw-data-centre-electricity-hedging):** My final-semester capstone, rebuilt: how a data centre should buy electricity, and why a futures hedge buys certainty rather than savings (Python and Monte Carlo simulation, with SQL for data preparation).
+
 ## Tools I work with
 
 SQL, Python, Excel, Power BI, Tableau and R.
