@@ -16,6 +16,8 @@ Each project will start with a real question and end with something a decision-m
 
 - **[Powering a 50 MW Data Centre in NSW](https://github.com/KonnurSarthak/nsw-data-centre-electricity-hedging):** My final-semester capstone, rebuilt: how a data centre should buy electricity, and why a futures hedge buys certainty rather than savings (Python and Monte Carlo simulation, with SQL for data preparation).
 
+- **[Tracing Complaints Back to Their Source](https://github.com/KonnurSarthak/asic-complaints-root-cause):** Which complaint issues keep coming back at Australian financial firms, which end in money paid back, and how much of the data is too vague to trace a cause (SQL data modelling in DuckDB, with Python for testing and charts).
+
 ## Tools I work with
 
 SQL, Python, Excel, Power BI, Tableau and R.
